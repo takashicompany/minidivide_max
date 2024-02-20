@@ -6,7 +6,7 @@
 |部品|個数|備考|
 |:--|:--|:--|
 |PCB|2||
-|[ダイオード(表面実装型)](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800di-02-100)|38||
+|[ダイオード(表面実装型)](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800di-02-100)|56||
 |[タクトスイッチ](https://akizukidenshi.com/catalog/g/gP-08081/)|2||
 |TRRSソケット|2||
 |ゴム足シール|8||
