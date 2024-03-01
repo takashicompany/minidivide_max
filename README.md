@@ -1,5 +1,7 @@
 # miniDivide MAX
 
+<img src = "https://github.com/takashicompany/minidivide_max/blob/master/images/01.jpg?raw=true" width = "600px" />
+
 ## 部品
 
 ### キットに含まれているもの
