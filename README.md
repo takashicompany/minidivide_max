@@ -61,3 +61,9 @@ miniDivideのリセットスイッチは表面実装型のタクタイルスイ�
 ### ファームウェア
 
 ファームウェアのソースコードは[こちら](https://github.com/qmk/qmk_firmware/pull/22804)。
+
+[Remapにファームウェアを登録しております](https://remap-keys.app/catalog/45QFUzpwRR502dBTFs1W/firmware)ので、Webブラウザ上でファームウェアの書き込みとキーマップの変更が可能です。
+
+### BLE Micro Proによる無線化
+
+[こちら](https://github.com/takashicompany/BLE-Micro-Pro/tree/minidivide_max/v1/AboutDefaultFirmware/keyboards/takashicompany/minidivide_max)に、config.json(CONFIG.JSN)とkeymap.json(KEYMAP.JSN)があります。 近日中にプルリクエストを出す予定です。
