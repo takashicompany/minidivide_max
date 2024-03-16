@@ -68,4 +68,13 @@ miniDivideのリセットスイッチは表面実装型のタクタイルスイ�
 
 ### BLE Micro Proによる無線化
 
-[こちら](https://github.com/takashicompany/BLE-Micro-Pro/tree/minidivide_max/v1/AboutDefaultFirmware/keyboards/takashicompany/minidivide_max)に、config.json(CONFIG.JSN)とkeymap.json(KEYMAP.JSN)があります。 近日中にプルリクエストを出す予定です。
+設定ファイルの[プルリクエスト](https://github.com/sekigon-gonnoc/BLE-Micro-Pro/pull/76)を出しマージされたので、近日中に[BLE Micro Pro Configurator](https://sekigon-gonnoc.github.io/BLE-Micro-Pro-WebConfigurator/#/config)の方に反映されるかと思います。(2024/03/17時点)
+
+[こちら](https://github.com/takashicompany/BLE-Micro-Pro/tree/minidivide_max/v1/AboutDefaultFirmware/keyboards/takashicompany/minidivide_max)に、config.json(CONFIG.JSN)とkeymap.json(KEYMAP.JSN)があります。 
+
+左手側のBLE Micro ProのCONFIG.JSNに[takashicompany_minidivide-max_master_left_config.json](https://github.com/sekigon-gonnoc/BLE-Micro-Pro/blob/master/AboutDefaultFirmware/keyboards/takashicompany/minidivide_max/takashicompany_minidivide-max_master_left_config.json)の内容をコピー&ペーストしてください。  
+右手側のBLE Micro ProのCONFIG.JSNに[takashicompany_minidivide-max_slave_right_config.json](https://github.com/sekigon-gonnoc/BLE-Micro-Pro/blob/master/AboutDefaultFirmware/keyboards/takashicompany/minidivide_max/takashicompany_minidivide-max_slave_right_config.json)の内容をコピー&ペーストしてください。
+
+両方のBLE Micro ProのKEYMAP.JSNに[/minidivide-max_keymap.json](https://github.com/sekigon-gonnoc/BLE-Micro-Pro/blob/master/AboutDefaultFirmware/keyboards/takashicompany/minidivide_max/minidivide-max_keymap.json)の内容をコピー&ペーストしてください。
+動作が確認出来次第、お好きなキーマップに変更してください。
+
